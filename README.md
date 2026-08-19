@@ -50,4 +50,15 @@ WeiboVault 不是通用爬虫框架，它更适合个人内容归档、账号迁
 ## 搜索关键词
 
 微博备份、微博导出、微博归档、微博克隆、微博图片备份、微博视频备份、微博评论备份、微博回复备份、微博转发备份、微博 HTML 导出、微博 PDF 导出、微博本地备份、微博离线查看、个人微博备份、WeiboVault、Weibo backup、Weibo archive、Weibo export、Weibo downloader、Weibo comments backup、Weibo repost backup、Weibo HTML export。
+
+## 更新记录
+
+### 2026.8.19
+
+- 处理搜索微博异常的问题
+
+### 2026.8.15
+
+- 下载图片优先使用原图
+- 处理任务异常被中断的问题
  
