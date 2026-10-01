@@ -4,7 +4,7 @@
 
 > WeiboVault 是一款面向个人微博内容归档的桌面备份工具。支持把微博正文、图片、视频、评论、回复、转发列表保存到本地，并导出为可离线查看的 HTML 或 PDF 文件。
 
-官网与下载：[https://weibovault.bytefuse.cn/](https://weibovault.bytefuse.cn/)
+官网与下载：[Release](https://weibovault.chituhub.com/?channel=zhang)
 
 ## 这是什么
 
